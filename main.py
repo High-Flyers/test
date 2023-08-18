@@ -2,7 +2,7 @@ print("HELLO WORLD")
 
 age = input("PODAJ AGE: ")
 
-if age > 18:
-    print("ADULT")
+if age > 16:
+    print("ADULT.")
 else:
-    print("KID")
+    print("KID.")
