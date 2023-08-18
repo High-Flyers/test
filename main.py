@@ -2,7 +2,7 @@ print("HELLO WORLD")
 
 age = input("PODAJ AGE: ")
 
-if age > 18:
-    print("PELOLETNI")
+if age > 16:
+    print("PELOLETNI.")
 else:
-    print("NIEPELNOELTNI")
+    print("NIEPELNOELTNI.")
